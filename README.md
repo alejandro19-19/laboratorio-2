@@ -24,3 +24,10 @@ $ python -m venv .
 $ pip install PyOpenGL-3.1.6-cp311-cp311-win_amd64.whl
 
 ```
+## Ejecución
+***
+Para la ejecucion de los algorimos:
+```
+$ python nombre_del_archivo.py
+```
+
