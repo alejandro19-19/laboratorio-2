@@ -60,7 +60,7 @@ def initial():
     glutInitWindowPosition(int(width/2),int(height/2))
     glutInitWindowPosition(int((glutGet(GLUT_SCREEN_WIDTH)-width)/2),
                        int((glutGet(GLUT_SCREEN_HEIGHT)-height)/2))
-    glutCreateWindow(b'line Basic')
+    glutCreateWindow(b'Circle MidPoint')
     glClearColor(0.0, 0.0, 0.0, 0.0)
     gluOrtho2D(0.0, 500.0, 0.0, 400.0)
     glutDisplayFunc(circleMidP)

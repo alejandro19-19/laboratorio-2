@@ -40,7 +40,7 @@ def initial():
     glutInitWindowSize(width, height)
     glutInitWindowPosition(int((glutGet(GLUT_SCREEN_WIDTH)-width)/2),
                        int((glutGet(GLUT_SCREEN_HEIGHT)-height)/2))
-    glutCreateWindow(b'line Basic')
+    glutCreateWindow(b'Line Basic')
     glClearColor(0.0, 0.0, 0.0, 0.0)
     gluOrtho2D(0.0, 500.0, 0.0, 400.0)
     glutDisplayFunc(lineBasic)
