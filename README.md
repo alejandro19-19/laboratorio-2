@@ -1,10 +1,10 @@
-# laboratorio-2 Computacion Gráfica
+# Laboratorio-2 Computacion Gráfica
 ***
 ## Integrantes: 
   * Alejandro Peñaranda Agudelo - 1941008
   * Alejandro Escobar Tafurt - 1941378
   * Juan Camilo Santa Gomez - 1943214
-  * Diego Fernando Chaverra - 19
+  * Diego Fernando Chaverra - 1940322
 
 ## Instalación
 ***
@@ -24,3 +24,10 @@ $ python -m venv .
 $ pip install PyOpenGL-3.1.6-cp311-cp311-win_amd64.whl
 
 ```
+## Ejecución
+***
+Para la ejecucion de los algorimos:
+```
+$ python nombre_del_archivo.py
+```
+
