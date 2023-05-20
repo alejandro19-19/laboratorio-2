@@ -1,4 +1,4 @@
-# laboratorio-2 Computacion Gráfica
+# Laboratorio-2 Computacion Gráfica
 ***
 ## Integrantes: 
   * Alejandro Peñaranda Agudelo - 1941008
